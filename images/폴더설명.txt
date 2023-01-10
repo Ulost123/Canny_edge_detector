@@ -1,0 +1,5 @@
+Canny : canny edge detector로 생성한 edge image들이 들어있습니다. 각 폴더마다 다른 방법으로 생성한 이미지로 이루어져있고 형식은 high_low_원본이미지순서.jpg 입니다.
+
+cv2_test : 생성한 이미지들을 비교해보기 위해 cv2.canny로 만든 edge image들 입니다. 형식은 위와 같습니다.
+
+LoG : LoG로 생성한 edge image들이고 형식은 LoG_원본이미지순서.jpg 입니다.
